@@ -1,16 +1,16 @@
 [English Version] (https://github.com/jean-francoisgiraud/DigitalCertificationServices/)
 # Services de certification numérique (DCS)
 ### Auteur: Jean-Francois Giraud eng. 8289468 Canada Inc.
-[Facebook.] (Https://www.facebook.com/jeanfrancois.giraud.52/) [Twitter.] (Https://twitter.com/8289468) [LinkedIn.] (Https://linkedin.com/ dans / jfgiraudengineer) [Github.] (https://github.com/jean-francoisgiraud/DigitalCurrencyKnowledgeBase) [Google Sites.] (https://sites.google.com/site/8289468canadainc)
-BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo
-BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv
-Pour Paypal et Interrac veuillez nous contacter.
+[Facebook.](Https://www.facebook.com/jeanfrancois.giraud.52/)[Twitter.](Https://twitter.com/8289468) [LinkedIn.](Https://linkedin.com/in/ jfgiraudengineer) [Github.](https://github.com/jean-francoisgiraud/DigitalCurrencyKnowledgeBase) [Google Sites.](https://sites.google.com/site/8289468canadainc)  
+BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
+BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
+Pour Paypal et Interrac veuillez nous contacter.  
 
-[Définitions] (# Définitions)
-[Services] (# services)
-[DCS] (# dcs)
-[Legal] (# Legal)
-[Références] (# Références)
+[Définitions](#Définitions)
+[Services](#services)
+[DCS](#dcs)  
+[Legal](#Légal)
+[Références](#Références)
 
 # Définitions
 CC = crypto-monnaies.
@@ -63,10 +63,10 @@ Pour un exemple de bitcoin, vous pouvez à partir de blockchain.info afficher le
 ## DCS
 Les DCS (Digital Certification Services) sont des jetons représentant des produits du monde réel, des services tels que des certifications (preuve de conformité réglementaire (tests, analyse, consensus sur la similitude)), des actifs, des produits, des services. Les DPS peuvent être envoyés / reçus et sont émis sur le réseau BCH / SLP (bitcoin cash) au lieu de fonctionner sur leur propre blockchain.
 
-La pièce DCS est répertoriée sur bitcoin.com [ici] (https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7)
+La pièce DCS est répertoriée sur bitcoin.com [ici](https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7)
 https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7
 
-[SLP est le protocole de registre simple] (https://simpleledger.cash) Un système de jetons pour Bitcoin Cash. Il est similaire à la norme ERC-20. Les jetons SLP peuvent être utilisés comme représentations (jumeau numérique) d'actifs, de produits et de services du monde réel précieux dans la blockchain SLP qui peuvent être envoyés et reçus. Les jetons SLP (comme notre propre DCS) sont émis sur le réseau BCH (bitcoin cash) au lieu de fonctionner sur leur propre blockchain.  
+[SLP est le protocole de registre simple](https://simpleledger.cash) Un système de jetons pour Bitcoin Cash. Il est similaire à la norme ERC-20. Les jetons SLP peuvent être utilisés comme représentations (jumeau numérique) d'actifs, de produits et de services du monde réel précieux dans la blockchain SLP qui peuvent être envoyés et reçus. Les jetons SLP (comme notre propre DCS) sont émis sur le réseau BCH (bitcoin cash) au lieu de fonctionner sur leur propre blockchain.  
 
 ## Légal
 
