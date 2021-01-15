@@ -1,5 +1,5 @@
 [English Version](https://github.com/jean-francoisgiraud/DigitalCertificationServices/)
-# Services de certification numérique (DCS)
+# Services de certification numérique, Digital Certification Services (DCS)
 ### Auteur: Jean-Francois Giraud eng. 8289468 Canada Inc.
 [Facebook.](https://www.facebook.com/jeanfrancois.giraud.52/) [Twitter.](https://twitter.com/8289468) [LinkedIn.](https://linkedin.com/in/jfgiraudengineer) [Github.](https://github.com/jean-francoisgiraud/DigitalCurrencyKnowledgeBase) [Google Sites.](https://sites.google.com/site/8289468canadainc)  
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
@@ -27,7 +27,7 @@ Système de gestion de la qualité ISO 9001.
 Systèmes de gestion environnementale ISO 14001.  
 Système de gestion de la sécurité de l'information (SMSI) ISO 27001.  
 
-# Prestations de service
+# Services
 Smart-contract, blockchain, crypto-monnaies pour preuve de conformité aux exigences réglementaires ou contractuelles.  
 Services de certification numérique (DCS).  
 Certifications (témoignage, audit, confirmation) preuve de conformité et d'amélioration continue.  
