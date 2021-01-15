@@ -58,7 +58,7 @@ Vérification des messages (tels que les données de certification) sur un jeton
 Dans votre portefeuille (dans cet exemple, nous utiliserons le portefeuille "Mon portefeuille BCH") utilisez la fonction "Afficher la transaction sur l'explorateur de blocs". Cela vous mènera à la blockchain explorer.bitcoin.com et vous aurez 2 options "Résumé" ou "Afficher les détails" sélectionnez le résumé pour voir les données de base de cette transaction sélectionnez Afficher les détails pour toutes les données, y compris le message lié à cette transaction . Ou Lorsque vous ouvrez un fichier de chaîne de blocs avec un éditeur de texte pouvant afficher des caractères ASCII, votre message sera visible. Le message sera en [encodage de table ASCII] (MessageInAbitcoinRawData.JPG) accompagné de beaucoup de données liées à la gestion de la blockchain mais sans rapport avec le message.
 Pour un exemple de bitcoin, vous pouvez à partir de blockchain.info afficher les informations sur les blocs avec les valeurs de hachage "Input Script", puis vous pouvez lire les messages de blockchain.info.
 
-[Voir aussi] (https://hackernoon.com/adding-messages-on-the-bitcoin-blockchain-a-how-to-guide-h6593xkz)
+[Voir aussi](https://hackernoon.com/adding-messages-on-the-bitcoin-blockchain-a-how-to-guide-h6593xkz)
 
 ## DCS
 Les DCS (Digital Certification Services) sont des jetons représentant des produits du monde réel, des services tels que des certifications (preuve de conformité réglementaire (tests, analyse, consensus sur la similitude)), des actifs, des produits, des services. Les DPS peuvent être envoyés / reçus et sont émis sur le réseau BCH / SLP (bitcoin cash) au lieu de fonctionner sur leur propre blockchain.
