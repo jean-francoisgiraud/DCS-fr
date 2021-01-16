@@ -58,6 +58,8 @@ Vérification des messages (tels que les données de certification) sur un jeton
 Dans votre portefeuille (dans cet exemple, nous utiliserons le portefeuille "Mon portefeuille BCH") utilisez la fonction "Afficher la transaction sur l'explorateur de blocs". Cela vous mènera à la blockchain explorer.bitcoin.com et vous aurez 2 options "Résumé" ou "Afficher les détails" sélectionnez le résumé pour voir les données de base de cette transaction sélectionnez Afficher les détails pour toutes les données, y compris le message lié à cette transaction . Ou Lorsque vous ouvrez un fichier de chaîne de blocs avec un éditeur de texte pouvant afficher des caractères ASCII, votre message sera visible. Le message sera en [encodage de table ASCII] (MessageInAbitcoinRawData.JPG) accompagné de beaucoup de données liées à la gestion de la blockchain mais sans rapport avec le message.
 Pour un exemple de bitcoin, vous pouvez à partir de blockchain.info afficher les informations sur les blocs avec les valeurs de hachage "Input Script", puis vous pouvez lire les messages de blockchain.info.
 
+Le Bitcoin original a un langage de script simple qui peut être utilisé pour stocker des informations (métadonnées) sur sa blockchain. Les «pièces colorées» incorporent davantage de métadonnées qui peuvent être utilisées pour émettre, échanger (acheter et vendre) des actifs numériques représentant une valeur dans le monde réel qui peuvent ensuite être connectée à des promesses du monde réel qui peuvent être échangées contre des actifs du monde réel.  
+
 [Voir aussi](https://hackernoon.com/adding-messages-on-the-bitcoin-blockchain-a-how-to-guide-h6593xkz)
 
 ## DCS
