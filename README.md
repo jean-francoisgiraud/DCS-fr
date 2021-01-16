@@ -68,7 +68,7 @@ Les DCS (Digital Certification Services) sont des jetons représentant des produ
 La pièce DCS est répertoriée sur bitcoin.com [ici](https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7)
 https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7
 
-[SLP est le protocole de registre simple](https://simpleledger.cash) Un système de jetons pour Bitcoin Cash. Il est similaire à la norme ERC-20. Les jetons SLP peuvent être utilisés comme représentations (jumeau numérique) d'actifs, de produits et de services du monde réel précieux dans la blockchain SLP qui peuvent être envoyés et reçus. Les jetons SLP (comme notre propre DCS) sont émis sur le réseau BCH (bitcoin cash) au lieu de fonctionner sur leur propre blockchain.  
+[SLP est en anglais le  simple ledger protocol](https://simpleledger.cash) Un système de jetons pour Bitcoin Cash. Il est similaire à la norme ERC-20. Les jetons SLP peuvent être utilisés comme représentations (jumeau numérique) d'actifs, de produits et de services du monde réel précieux dans la blockchain SLP qui peuvent être envoyés et reçus. Les jetons SLP (comme notre propre DCS) sont émis sur le réseau BCH (bitcoin cash) au lieu de fonctionner sur leur propre blockchain.  
 
 ## Légal
 
